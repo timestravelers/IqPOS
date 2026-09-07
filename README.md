@@ -236,10 +236,6 @@ Penjualan, stok, pembelian dan laporan berada dalam satu aplikasi.
 
 Tersedia fasilitas backup dan restore database.
 
-### 👥 Multi-User
-
-Pengelolaan akses Admin dan Kasir.
-
 ### 💰 Hemat
 
 Tidak harus membayar biaya langganan bulanan untuk menggunakan aplikasi offline.
