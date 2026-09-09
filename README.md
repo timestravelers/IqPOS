@@ -870,44 +870,6 @@ Windows
 
 ---
 
-# ⚠️ IMPORTANT NOTES
-
-1. Jangan menghapus database sembarangan.
-2. Backup sebelum upgrade.
-3. `GenLic.exe` bersifat developer-only.
-4. Simpan private key dengan aman.
-5. Gunakan server yang stabil untuk mode LAN.
-
----
-
-# 🧪 QUALITY CHECK
-
-```text
-[✓] Application startup
-[✓] Login
-[✓] License validation
-[✓] Machine ID
-[✓] Server status
-[✓] LAN connection
-[✓] Cashier login
-[✓] Sales transaction
-[✓] Payment
-[✓] Invoice printing
-[✓] Reprint invoice
-[✓] Hold transaction
-[✓] Resume transaction
-[✓] Purchase
-[✓] Stock update
-[✓] Stock opname
-[✓] Transaction history
-[✓] Reports
-[✓] Backup
-[✓] Restore
-[✓] User permissions
-[✓] Multi-terminal
-```
-
----
 
 # 🚀 QUICK START
 
