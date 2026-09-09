@@ -1,125 +1,134 @@
-# 🏪 IqPOS Professional Edition
+<div align="center">
 
-### 🚀 POS Offline untuk Toko & Bisnis Retail
+# ⚡ IqPOS Professional Edition
 
-**Kasir lebih cepat. Stok lebih tertib. Bisnis lebih terkontrol.**
+### 🚀 Offline Point of Sale • Retail Management • LAN Multi-Kasir
 
-IqPOS Professional Edition adalah aplikasi kasir **offline** untuk membantu mengelola operasional toko secara lebih teratur:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Kasir+lebih+cepat.;Stok+lebih+tertib.;Bisnis+lebih+terkontrol.;100%+Offline+%E2%9A%A1;Siap+untuk+Multi-Kasir+LAN+%F0%9F%92%BB" alt="Typing Animation">
 
-🧾 Penjualan · 📦 Stok · 🛒 Pembelian · 👥 Pelanggan & Supplier · 💰 Kasir & Shift · 📊 Laporan
+<br>
 
-> 📴 **Tidak perlu internet untuk transaksi. Data tersimpan secara lokal.**
+![IqPOS](https://img.shields.io/badge/IqPOS-Professional-00C896?style=for-the-badge&logo=windows&logoColor=white)
+![Offline](https://img.shields.io/badge/100%25-Offline-111827?style=for-the-badge)
+![LAN](https://img.shields.io/badge/LAN-Multi--Kasir-2563EB?style=for-the-badge)
+![License](https://img.shields.io/badge/License-V3-F59E0B?style=for-the-badge)
 
----
+<br>
 
-## ✨ Kenapa IqPOS?
+**💻 Aplikasi kasir offline untuk toko dan bisnis retail modern.**
 
-| ⚡ Cepat | 📴 Offline | 🌐 Multi-Kasir | 📦 Terintegrasi | 💾 Backup |
-|---|---|---|---|---|
-| Transaksi kasir lebih praktis | Tetap berjalan tanpa internet | Mendukung beberapa terminal kasir dalam jaringan LAN | Penjualan, stok & pembelian saling terhubung | Backup & restore database |
+[ ✨ Fitur ] • [ 🖥️ Arsitektur ] • [ 🔐 Lisensi ] • [ 💾 Backup ] • [ ⚙️ Instalasi ]
 
----
-
-## 🧾 Penjualan & Kasir
-
-* Penjualan cepat
-* Pencarian barang
-* Keranjang transaksi
-* Harga transaksi dapat disesuaikan
-* Pembayaran tunai
-* Cetak nota / faktur
-* Riwayat transaksi
-* Cetak ulang transaksi
-* Pengelolaan pelanggan
-* Shift kasir
-* Kas awal dan aktivitas kas
+</div>
 
 ---
 
-## 📦 Stok & Barang
+# 🏪 Tentang IqPOS
 
-* Master barang
-* Kategori barang
-* Satuan barang
-* Harga jual
-* Stok minimum
-* Monitoring stok menipis
-* Mutasi stok
-* Stock opname
-* Penyesuaian stok
-* Riwayat pergerakan stok
+**IqPOS Professional Edition** adalah aplikasi Point of Sale (POS) offline yang dirancang untuk membantu operasional toko secara lebih cepat, sederhana, dan terkontrol.
 
----
+IqPOS tidak hanya berfungsi sebagai aplikasi kasir, tetapi juga membantu mengelola:
 
-## 🛒 Pembelian
+- 🛒 Penjualan
+- 📦 Stok barang
+- 🛍️ Pembelian
+- 👥 Pelanggan
+- 🚚 Supplier
+- 👨‍💼 Kasir
+- 🔄 Shift
+- 📊 Laporan
+- 💰 Keuangan
+- 🏪 Multi-cabang / gudang
+- 💻 Multi-kasir melalui jaringan LAN
 
-* Transaksi pembelian supplier
-* Stok masuk otomatis
-* Riwayat pembelian
-* Data supplier
-* Pengelolaan harga pembelian
-
----
-
-## 👥 Pelanggan & Supplier
-
-Kelola data pelanggan dan supplier untuk membantu pencatatan transaksi toko.
-
-### Pelanggan
-
-* Data pelanggan
-* Riwayat transaksi
-* Penggunaan pelanggan pada transaksi penjualan
-
-### Supplier
-
-* Data supplier
-* Riwayat pembelian
-* Pengelolaan pemasok barang
+> **Fokus utama IqPOS:**
+>
+> **Sederhana digunakan oleh kasir — tetapi tetap memiliki kontrol yang kuat untuk owner.**
 
 ---
 
-## 💰 Kasir & Shift
-
-IqPOS membantu mengontrol aktivitas kasir selama operasional toko.
-
-* Kas awal
-* Shift kasir
-* Aktivitas transaksi
-* Riwayat laci kas
-* Pengelolaan kas kecil
-* Pencatatan arus kas
-
----
-
-## 📊 Laporan
-
-Pantau kondisi toko melalui berbagai laporan:
-
-* Laporan penjualan
-* Omset
-* Laba & rugi
-* Pembelian
-* Stok
-* Mutasi stok
-* Aktivitas kasir
-* Arus kas
-* Kas kecil
-
-Laporan membantu pemilik toko melihat kondisi operasional tanpa harus memeriksa transaksi satu per satu.
-
----
-
-## 🌐 LAN Multi-Kasir
-
-IqPOS mendukung penggunaan beberapa komputer kasir dalam **jaringan LAN lokal**.
-
-Contoh penggunaan:
+# ⚡ Filosofi IqPOS
 
 ```text
-              🖥️ PC SERVER
-             IqPOS + Database
-                    │
-          ┌─────────┼─────────┐
-          │         │         │
-       💻 Kasir 1  💻 Kasir 2  💻 Kasir 3
+        ┌───────────────────────────┐
+        │          IqPOS            │
+        │     PROFESSIONAL          │
+        └─────────────┬─────────────┘
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+       CEPAT       TERTIB      TERKONTROL
+          │           │           │
+          ▼           ▼           ▼
+       Kasir        Stok        Owner
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+               OPERASIONAL TOKO
+
+
+⚡ Ringan
+💻 Stabil
+📦 Offline
+🌐 LAN
+🛠️ Mudah dipelihara
+
+🏪 Workflow Operasional Toko
+
+                ┌───────────────┐
+                │   OWNER       │
+                └───────┬───────┘
+                        │
+                        ▼
+                 Pengaturan Toko
+                        │
+                        ▼
+                ┌───────────────┐
+                │    SERVER     │
+                └───────┬───────┘
+                        │
+              ──────────┼──────────
+              │         │         │
+              ▼         ▼         ▼
+           Kasir 1   Kasir 2   Kasir 3
+              │         │         │
+              └─────────┼─────────┘
+                        ▼
+                   TRANSAKSI
+                        │
+                        ▼
+                  DATABASE
+                        │
+            ┌───────────┼───────────┐
+            ▼           ▼           ▼
+         Stok       Laporan     Keuangan
+            │           │           │
+            └───────────┼───────────┘
+                        ▼
+                       OWNER
+
+📜 Copyright
+
+Copyright © 2026 Muhamad Thoriq
+
+All rights reserved.
+
+<div align="center">
+⚡ IqPOS
+Kasir lebih cepat.
+Stok lebih tertib.
+Bisnis lebih terkontrol.
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00C896&center=true&vCenter=true&width=600&lines=100%25+Offline+%E2%9A%A1;LAN+Multi--Kasir+%F0%9F%92%BB;Professional+Retail+POS+%F0%9F%8F%AA;Built+for+Real+Store+Operations+%F0%9F%9A%80" alt="IqPOS Animation">
+
+<br><br>
+
+
+
+
+
+
+<br><br>
+
+© 2026 IqPOS Professional Edition
+
+</div> ```
