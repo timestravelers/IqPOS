@@ -47,17 +47,17 @@ IqPOS menggabungkan kebutuhan utama toko dalam satu sistem:
 │                         IqPOS PRO                            │
 ├──────────────────────────────────────────────────────────────┤
 │  🛒 PENJUALAN       → Transaksi & pembayaran                 │
-│  📦 STOK            → Persediaan & mutasi                   │
-│  🛍️ PEMBELIAN       → Supplier & pembelian                 │
-│  👥 PELANGGAN       → Data customer                         │
-│  🏭 SUPPLIER        → Data pemasok                          │
-│  👨‍💼 USER           → Admin, kasir & hak akses              │
-│  🕐 SHIFT           → Kontrol aktivitas kasir               │
-│  📊 LAPORAN         → Monitoring & analisis                 │
-│  🧮 STOCK OPNAME    → Penyesuaian stok                      │
-│  🧾 FAKTUR          → Cetak & cetak ulang                   │
-│  💾 BACKUP          → Backup & restore database             │
-│  🌐 LAN             → Multi-terminal                       │
+│  📦 STOK            → Persediaan & mutasi                    │
+│  🛍️ PEMBELIAN       → Supplier & pembelian                   │
+│  👥 PELANGGAN       → Data customer                          │
+│  🏭 SUPPLIER        → Data pemasok                           │
+│  👨‍💼 USER           → Admin, kasir & hak akses                │
+│  🕐 SHIFT           → Kontrol aktivitas kasir                │
+│  📊 LAPORAN         → Monitoring & analisis                  │
+│  🧮 STOCK OPNAME    → Penyesuaian stok                       │
+│  🧾 FAKTUR          → Cetak & cetak ulang                    │
+│  💾 BACKUP          → Backup & restore database              │
+│  🌐 LAN             → Multi-terminal                         │
 └──────────────────────────────────────────────────────────────┘
 ```
 
