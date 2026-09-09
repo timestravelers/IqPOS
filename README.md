@@ -26,7 +26,6 @@
 | 💾 Database | `OFFLINE / LOCAL` |
 | 🌐 LAN Server | `READY` |
 | 🖥️ Multi-Cashier | `READY` |
-| 🔐 License System | `V3` |
 | 📦 Inventory | `READY` |
 | 🛒 Sales | `READY` |
 | 🛍️ Purchasing | `READY` |
