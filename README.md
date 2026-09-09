@@ -4,7 +4,7 @@
 
 **Kasir lebih cepat. Stok lebih tertib. Bisnis lebih terkontrol.**
 
-IqPOS adalah aplikasi kasir **offline** untuk mengelola:
+IqPOS Professional Edition adalah aplikasi kasir **offline** untuk membantu mengelola operasional toko secara lebih teratur:
 
 🧾 Penjualan · 📦 Stok · 🛒 Pembelian · 👥 Pelanggan & Supplier · 💰 Kasir & Shift · 📊 Laporan
 
@@ -14,128 +14,112 @@ IqPOS adalah aplikasi kasir **offline** untuk mengelola:
 
 ## ✨ Kenapa IqPOS?
 
-| ⚡ Cepat                       | 📴 Offline                    | 📦 Terintegrasi                       | 💾 Backup                 |
-| ----------------------------- | ----------------------------- | ------------------------------------- | ------------------------- |
-| Transaksi kasir lebih praktis | Tetap berjalan tanpa internet | Penjualan, stok & pembelian terhubung | Backup & restore database |
+| ⚡ Cepat | 📴 Offline | 🌐 Multi-Kasir | 📦 Terintegrasi | 💾 Backup |
+|---|---|---|---|---|
+| Transaksi kasir lebih praktis | Tetap berjalan tanpa internet | Mendukung beberapa terminal kasir dalam jaringan LAN | Penjualan, stok & pembelian saling terhubung | Backup & restore database |
 
-### 🧾 Kasir
+---
+
+## 🧾 Penjualan & Kasir
 
 * Penjualan cepat
 * Pencarian barang
-* Pembayaran & cetak nota
+* Keranjang transaksi
+* Harga transaksi dapat disesuaikan
+* Pembayaran tunai
+* Cetak nota / faktur
 * Riwayat transaksi
 * Cetak ulang transaksi
+* Pengelolaan pelanggan
+* Shift kasir
+* Kas awal dan aktivitas kas
 
-### 📦 Stok
+---
 
-* Master barang & kategori
+## 📦 Stok & Barang
+
+* Master barang
+* Kategori barang
+* Satuan barang
+* Harga jual
 * Stok minimum
+* Monitoring stok menipis
 * Mutasi stok
 * Stock opname
-* Monitoring stok menipis
+* Penyesuaian stok
+* Riwayat pergerakan stok
 
-### 🛒 Pembelian
+---
 
-* Pembelian supplier
+## 🛒 Pembelian
+
+* Transaksi pembelian supplier
 * Stok masuk otomatis
 * Riwayat pembelian
 * Data supplier
+* Pengelolaan harga pembelian
 
-### 💰 Kasir & Shift
+---
+
+## 👥 Pelanggan & Supplier
+
+Kelola data pelanggan dan supplier untuk membantu pencatatan transaksi toko.
+
+### Pelanggan
+
+* Data pelanggan
+* Riwayat transaksi
+* Penggunaan pelanggan pada transaksi penjualan
+
+### Supplier
+
+* Data supplier
+* Riwayat pembelian
+* Pengelolaan pemasok barang
+
+---
+
+## 💰 Kasir & Shift
+
+IqPOS membantu mengontrol aktivitas kasir selama operasional toko.
 
 * Kas awal
 * Shift kasir
 * Aktivitas transaksi
 * Riwayat laci kas
-
-### 📊 Laporan
-
-Pantau kondisi toko melalui laporan **penjualan, omset, laba, pembelian, stok, mutasi stok, dan aktivitas kasir.**
-
-### 🔐 Admin & Kasir
-
-Atur hak akses pengguna sehingga pemilik/admin dapat mengontrol pengelolaan toko, sementara kasir fokus pada transaksi.
+* Pengelolaan kas kecil
+* Pencatatan arus kas
 
 ---
 
-## 📴 Offline. Tetap Bisa Jualan.
+## 📊 Laporan
 
-Internet mati?
+Pantau kondisi toko melalui berbagai laporan:
 
-**Kasir tetap berjalan.**
+* Laporan penjualan
+* Omset
+* Laba & rugi
+* Pembelian
+* Stok
+* Mutasi stok
+* Aktivitas kasir
+* Arus kas
+* Kas kecil
 
-IqPOS menggunakan database lokal sehingga transaksi harian tidak bergantung pada koneksi internet.
-
-Cocok untuk:
-
-🏪 Minimarket · 🛒 Grosir · 🏬 Retail · 🔧 Sparepart · 📚 ATK · 🥫 Sembako · 👕 Fashion · 🧴 Kosmetik
-
----
-
-## 💾 Jangan Biarkan Data Toko Hilang
-
-IqPOS menyediakan:
-
-* Backup database
-* Restore database
-* Maintenance database
-* Impor SQL Dump
-
-> **Backup secara rutin dan simpan salinannya di media lain.**
+Laporan membantu pemilik toko melihat kondisi operasional tanpa harus memeriksa transaksi satu per satu.
 
 ---
 
-# 🎁 Coba Gratis
+## 🌐 LAN Multi-Kasir
 
-Tidak perlu langsung membeli.
+IqPOS mendukung penggunaan beberapa komputer kasir dalam **jaringan LAN lokal**.
 
-### **Download → Install → Trial → Coba Sendiri**
+Contoh penggunaan:
 
-Rasakan langsung sistem kasir, stok, pembelian, shift, laporan, dan backup database.
-
-**Tidak perlu percaya hanya dari iklan. Coba sendiri.**
-
----
-
-## 💰 Lisensi
-
-| Paket          |           Harga |
-| -------------- | --------------: |
-| 🆓 Trial       |      **Gratis** |
-| ⭐ Professional |   **Rp799.000** |
-| 👑 Lifetime+   | **Rp1.499.000** |
-
-### 🔥 Harga Launching
-
-**Mulai Rp599.000** untuk pengguna awal.
-
-> Harga dapat berubah mengikuti program promosi dan pengembangan produk.
-
----
-
-# 🚀 Mulai Menggunakan IqPOS
-
-**Kasir → Stok → Pembelian → Laporan**
-
-Satu aplikasi untuk membantu operasional toko menjadi lebih teratur.
-
-### ⭐ Bantu IqPOS berkembang
-
-Jika project ini bermanfaat:
-
-⭐ **Star repository**
-🐛 Laporkan bug
-💡 Berikan ide fitur
-📢 Bagikan kepada pemilik toko lainnya
-
----
-
-## 👨‍💻 IqPOS Professional Edition
-
-**Developed by Muhamad Thoriq**
-
-© 2026 Muhamad Thoriq
-
-### 🏪 IqPOS
-
-**Kasir lebih cepat. Stok lebih tertib. Bisnis lebih terkontrol.**
+```text
+              🖥️ PC SERVER
+             IqPOS + Database
+                    │
+          ┌─────────┼─────────┐
+          │         │         │
+       💻 Kasir 1  💻 Kasir 2  💻 Kasir 3
