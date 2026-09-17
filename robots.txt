@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iqpos.web.id/sitemap.xml
+Sitemap: https://iqpos.my.id/sitemap.xml
